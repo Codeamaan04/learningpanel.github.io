@@ -1,1 +1,1 @@
-# learningpanel.github.io
+# ilearning.github.io
